@@ -207,7 +207,7 @@ I tried to keep the UI simple enough to use with one hand.
   - Li-ion battery
   - backup power for RTC and SRAM
 
-Custom PCB was designed so that the device is **hand-held and portable**.
+Custom PCB was designed so that the device is actually **hand-held and portable**. 
 
 ---
 
@@ -232,5 +232,5 @@ The firmware is written in **C** using the STM32 HAL and CMSIS-DSP.
 - `Clock.c`  
   - RTC time setting UI
 
-The code is not perfect, but it is a complete prototype that I could really use  
-as my **daily practice companion**.
+The code is clearly not perfect, as this is one of my first huge system architect project.
+but it is a complete prototype that I could really use as my **daily practice companion**.
