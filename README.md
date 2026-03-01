@@ -1,10 +1,10 @@
 # STM32F4 Portable Practice DSP Device
 
-This was developed for my bachelor graduation project, but with keeping in mind that the device will be used personally or crowdfunded.
+This was developed for my bachelor graduation project, but with keeping in mind that the device will be used personally.. or crowdfunded.
 It turned out it wasn't that good to be crowdfunded.. but still it works! and also good for my personal use.
 
-It is basically a **portable practice companion** built around an **STM32F407** microcontroller.  
-The device helps me practice instruments at home or in a rehearsal room without a lot of external gear.
+This project focuses on developing a **portable practice companion** built around an **STM32F407** microcontroller.  
+The device helps people practice instruments at home or in a rehearsal room without that huge amount of bulky gears.
 
 ## TL;DR (for recruiters)
 
@@ -57,19 +57,15 @@ MCU와 내부 RAM이 살아 있는 상황에서
 - 이후 정상 부팅 
 
 
-
----
-
-
 ---
 
 ## Backstory
 
 I play lots of instrument from woodwinds to percussion. Music is pretty much literally my life. 
 When I practice guitar or other instruments at home, 
-I usually need many separate devices: audio interface, mixer, tuner, metronome, maybe a laptop? 
+I usually need shitloads of separate devices: audio interface, mixer, tuner, metronome, maybe a laptop? a phone??
 
-I wanted **one small box** that can do all of this, and this is the begin of this big project.
+So this is the backstory. I just wanted a **single small device** that can do all of these, while maintaining the functionality.
 This is a graduation project, but my intention was to make something that is actually useful and is potentially lucrative.
 
 The function that I planned to implement was:
