@@ -4,11 +4,17 @@
 ## Videos
 
 https://www.youtube.com/watch?v=_CYvJwdOhUQ  Recovering Data
+
 https://www.youtube.com/watch?v=7vPy3JID6l4  System Settings
+
 https://www.youtube.com/watch?v=G-kPSslMNc0  BPM Auto Calculation
+
 https://www.youtube.com/watch?v=HqbBY2KLgDY  Hardware Self Test
+
 https://www.youtube.com/watch?v=8V4moodQUs4  Music Play Mode
+
 https://www.youtube.com/watch?v=r6egSswZjCg  Notch Filter Applied
+
 https://www.youtube.com/watch?v=-oUxMyITEes  Pitch Shifter Applied
 
 
