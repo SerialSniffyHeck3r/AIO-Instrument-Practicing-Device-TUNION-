@@ -1,6 +1,6 @@
 # STM32F4 Portable Practice DSP Device
 
-![Screenshot](MEDIA/screenshot.png)
+![Screenshot](MEDIA/Screenshot.png)
 
 ## Videos
 
