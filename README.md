@@ -1,6 +1,6 @@
 # STM32F4 Portable Practice DSP Device
 
-![Screenshot](MEDIA/Screenshot.png)
+
 ![20251116](MEDIA/20251116_023722.jpg)
 
 ## Videos
@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=-oUxMyITEes  Pitch Shifter Applied
 https://www.youtube.com/watch?v=r_tZYo8vfbs  Volume Sound Effect
 
 ## Overview
+
+![Screenshot](MEDIA/Screenshot.png)
 
 This was developed for my bachelor graduation project, but with keeping in mind that the device will be used personally.. or crowdfunded.
 It turned out it wasn't that good to be crowdfunded.. but still it works! and also good for my personal use.
