@@ -1,5 +1,20 @@
 # STM32F4 Portable Practice DSP Device
 
+
+## Videos
+
+https://www.youtube.com/watch?v=_CYvJwdOhUQ  Recovering Data
+https://www.youtube.com/watch?v=7vPy3JID6l4  System Settings
+https://www.youtube.com/watch?v=G-kPSslMNc0  BPM Auto Calculation
+https://www.youtube.com/watch?v=HqbBY2KLgDY  Hardware Self Test
+https://www.youtube.com/watch?v=8V4moodQUs4  Music Play Mode
+https://www.youtube.com/watch?v=r6egSswZjCg  Notch Filter Applied
+https://www.youtube.com/watch?v=-oUxMyITEes  Pitch Shifter Applied
+
+
+
+## Overview
+
 This was developed for my bachelor graduation project, but with keeping in mind that the device will be used personally.. or crowdfunded.
 It turned out it wasn't that good to be crowdfunded.. but still it works! and also good for my personal use.
 
